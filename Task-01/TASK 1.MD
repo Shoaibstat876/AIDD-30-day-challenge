@@ -32,25 +32,18 @@ Final summary
 
 🟣 Reflection 1 — What AI-Driven Development Means to Me
 
-According to me, we are still the developers, but AI is sitting beside us — helping us build faster, smarter, and without heavy effort. AI-Driven Development means AI supports the entire development workflow: writing code, solving bugs, generating functions, improving structure, and accelerating work.
-
-In short:
-
-We are developers
-
-AI becomes our assistant
-
-We decide — AI accelerates
-
-AI-driven development is a partnership where humans stay in control, and AI boosts productivity.
+According to me; we are still the developer… but AI is sitting beside us,
+it helping us to build faster, smarter, without any heavy effort.”
+In short;
+ we are developer.
+AI becomes our assistant.
+we decide — AI accelerates.
 
 --------------------------------------------------------------------------------------------------------------
 
 🟣 Reflection 2 — Future of Human–AI Collaboration in Software Development
 
-The future of human and AI collaboration in software development is evolving into a strong, balanced partnership where both complement each other’s strengths. AI will act as a highly skilled assistant, handling repetitive tasks like coding, debugging, and documentation. This frees humans to focus on design, strategy, creativity, and decision-making.
-
-As a result, software development will become significantly faster, smarter, and more innovative — with humans directing the work and AI increasing the speed and quality of execution.
+The future of human and AI collaboration in software development is evolving into a strong and balanced partnership where both sides enhance each other’s strengths. AI will function as a highly skilled assistant, taking over repetitive tasks such as coding, debugging, and documentation. This allows humans to focus on higher-level responsibilities like system design, decision-making, and problem analysis. As a result, development processes will become significantly faster, smarter, and more innovative, with humans guiding the direction and AI accelerating the execution.
 
 ---------------------------------------------------------------------------------------------------------------------
 
