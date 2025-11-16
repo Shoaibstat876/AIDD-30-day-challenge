@@ -28,6 +28,8 @@ Final summary
 4	Test-Driven Development (TDD)	Classic method where tests come first — still important in AI workflows.
 5	AI Productivity Boom	Developer performance increased 5–10× due to AI coding agents.
 ✍️ Reflection Activity
+-----------------------------------------------------------------------------------------------------------------------
+
 🟣 Reflection 1 — What AI-Driven Development Means to Me
 
 According to me, we are still the developers, but AI is sitting beside us — helping us build faster, smarter, and without heavy effort. AI-Driven Development means AI supports the entire development workflow: writing code, solving bugs, generating functions, improving structure, and accelerating work.
@@ -42,11 +44,15 @@ We decide — AI accelerates
 
 AI-driven development is a partnership where humans stay in control, and AI boosts productivity.
 
+--------------------------------------------------------------------------------------------------------------
+
 🟣 Reflection 2 — Future of Human–AI Collaboration in Software Development
 
 The future of human and AI collaboration in software development is evolving into a strong, balanced partnership where both complement each other’s strengths. AI will act as a highly skilled assistant, handling repetitive tasks like coding, debugging, and documentation. This frees humans to focus on design, strategy, creativity, and decision-making.
 
 As a result, software development will become significantly faster, smarter, and more innovative — with humans directing the work and AI increasing the speed and quality of execution.
+
+---------------------------------------------------------------------------------------------------------------------
 
 🧠 MCQs — Fully Solved (All Options Included)
 1️⃣ What is the main purpose of the AI-Native Era?
